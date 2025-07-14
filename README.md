@@ -1,2 +1,7 @@
 python project 
 code block build basic begineer syntax only
+Please Download XYZ_Retail_Project.zip
+XYZ_Retail_Project
+Jupyter note book primarly used for this project.
+Please Download the XYZ_Retail_Project.Zip file.
+Some Code blocks required external files please ensure the file path and those files are attached in resource folder.
